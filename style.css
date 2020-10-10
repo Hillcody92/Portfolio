@@ -1,0 +1,63 @@
+body{
+    background-image: url(https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/129325364/original/afaddcb9d7dfaaf5bff7ef04101935814665ac16/design-an-attractive-background-for-your-website.png);
+}
+
+.navbar-nav > li{
+    padding-left:130px;
+    padding-right:140px;
+    
+  }
+
+  .navbar-brand{
+      font-style: italic; font-family: cursive; font-size: larger; 
+      color: gold;
+      text-decoration: underline;
+  }
+
+  .jumbotron{
+      padding: 60px;
+      margin: 50px;
+      background-image: url(https://jis.gov.jm/media/Web-Background.jpg);
+    
+  }
+
+h3{
+    color: white;
+}
+
+.display-4{
+    color: white;
+}
+
+img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+h4{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+} 
+
+footer{
+
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: navy;
+  color: white;
+  text-align: center;
+  
+}
+
+@media screen and (max-width: 700px){
+  footer{
+      background-color: gray;
+  }
+
+  }
+  body{
+      background-color: black;
+  }

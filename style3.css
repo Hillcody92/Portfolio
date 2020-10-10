@@ -1,0 +1,14 @@
+.row{
+    text-align: center;
+    margin: 40px;
+    padding: 100px;
+    margin-right: 10px;
+    border-style: solid; 
+    background-color: black;
+}
+
+h3{
+    text-decoration: underline;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

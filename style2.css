@@ -1,0 +1,29 @@
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 8px;  
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    color: black;
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    resize: vertical 
+    
+  }
+
+  label{
+      color: white;
+  }
+
+  .row{
+      padding: 50px;
+      margin: 20px;
+      text-align: center;
+  }
+
+  h3{
+      font-weight: bolder;
+      font-style: italic;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      font-size: 400%;
+  }
